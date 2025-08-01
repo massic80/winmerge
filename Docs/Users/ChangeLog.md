@@ -93,7 +93,7 @@
 
 ### Installer
 
-- BugFix: Installing as "NT Authority/SYSTEM" does not work on some langauges. (#2752, #2758)
+- BugFix: Installing as "NT Authority/SYSTEM" does not work on some languages. (#2752, #2758)
 
 ## WinMerge 2.16.48 - 2025-04-27
 
